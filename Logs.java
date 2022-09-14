@@ -14,7 +14,7 @@ import java.util.Scanner;
 * .Class constructor Logs.
 */
 final class Logs {
-	/**
+        /**
         * Prevent instantiation.
         * Throw an exception IllegalStateException.
         * if this ever is called
