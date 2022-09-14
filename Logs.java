@@ -7,7 +7,7 @@
 * @since   2022-09-13
 */
 
-// Import Math and Scanner
+// Import Scanner
 import java.util.Scanner;
 
 /**
